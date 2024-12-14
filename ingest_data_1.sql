@@ -1,4 +1,3 @@
--- CS779 Advanced DBMS Term Project --- 
 -- Anjana Nittur -- 
 -- This code file is about ingesting data into staging tables
 
